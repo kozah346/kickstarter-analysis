@@ -6,7 +6,7 @@ The project was analyzed by line charts whose links are provided in this file to
 This analysis was done to help Louise, a playwright, know how different campaigns fared as far as launch dates and funding goals are concerned.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-As mentioned before, this analysis was done carefully by use of line charts. The analysis for theatre outcomes based on launch date was made by creating a pivot table first that enabled the data to be separated accordingly for easy visualization. The following link shows the line chart that was created: ![alt text](path/to/Theater_Outcomes_vs_Launch.png) 
+As mentioned before, this analysis was done carefully by use of line charts. The analysis for theatre outcomes based on launch date was made by creating a pivot table first that enabled the data to be separated accordingly for easy visualization. The following link shows the line chart that was created: assets/images/Theater_Outcomes_vs_Launch.png
 ### Analysis of Outcomes Based on Goals
  Elsewhere, to create a line chart for outcomes based on goals, a regular table of rows and columns had to be created so that the COUNTIF function is used to help get the number of successful, failed and canceled projects. Later on, mathematical formula was used to get the respective percentages. The following link shows the resulting line chart: ![alt text](path/to/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
